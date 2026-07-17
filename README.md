@@ -6,7 +6,8 @@ The project uses **Logistic Regression** with **TF-IDF Vectorization** for text 
 
 ---
 
-Check the app here:[Link Text](fakenewsdetector-pied.vercel.app)
+Check the app here: [Link Text](https://fakenewsdetector-pied.vercel.app)
+
 
 
 ## Features
@@ -193,8 +194,3 @@ While building this project I learned about:
 - Connecting React with Flask using Axios
 - Deploying a machine learning model in a web application
 
----
-
-## Author
-
-Piyush Pandey
