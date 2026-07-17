@@ -1,0 +1,15 @@
+Model : Logistic Regression
+
+Vectorizer : TF-IDF
+
+Max Features : 5000
+
+N-Gram Range : (1,2)
+
+Accuracy : 0.995
+
+Precision : 0.995
+
+Recall : 0.995
+
+F1 Score : 0.995
