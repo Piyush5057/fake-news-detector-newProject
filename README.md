@@ -164,12 +164,13 @@ Response
 
 ### Home Page
 
-[![Alt text]](https://github.com/Piyush5057/fake-news-detector-newProject/blob/main/frontend/src/assets/HOME.png)
+<img width="1918" height="912" alt="HOME" src="https://github.com/user-attachments/assets/2c9aef03-31ca-404c-9dac-f2a41fca42ed" />
 
 
 ### Prediction Result
 
-[![Alt text]](https://github.com/Piyush5057/fake-news-detector-newProject/blob/main/frontend/src/assets/TRUE_SS.png)
+<img width="1896" height="910" alt="TRUE_SS" src="https://github.com/user-attachments/assets/721bc001-fbb9-4db2-9755-225052fb997d" />
+
 
 ---
 
